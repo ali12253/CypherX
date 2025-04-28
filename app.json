@@ -1,8 +1,8 @@
 {
-  "name": "CypherX",
+  "name": "Baloch",
   "description": "CypherX, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
-  "keywords": [],
+  "keywords": [.],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
   "addons": [
@@ -14,7 +14,7 @@
     "start": "node index.js"
   },
 "env": {
-  "SESSION_ID": {
+  "SESSION_ID": {CYPHER-X:~UEsDBBQAAAgIAGBPnFq48cCA2AQAAGMIAAAKAAAAY3JlZHMuanNvbpVUW5OyOBT8L3kd55OrgFVTtYg3REcUUXFrH0IIEJGLIag45X*fQmd2prbqm53lKZWEPp3T3ecNZDkpsYVr0H0DBSUnyHCzZHWBQRf0qjDEFLRAABkEXYBMpyj1dNHm5HnKwvwpmXdmUTRNVpu2XPZ3ridPCxbkOhe9gFsLFJV*IOgbwInbRzvzuneLo+ya03isuBdT0EeCHS6jTr15yteUH67PVXR+AbcGERJKsmhQxDjFFB4sXNuQ0J*RT4Y1UfFgtaL7g6WX0cDZGyLbV9a1VqyzBoW6tGfIm6LE*Bn9arl15+32lOfwej52p6zwTQXrox46X9LQs9xkXQUd6GaC+qBfkijDgRngjBFW*7jv6mxMasszBvE1OknBxCPaPM*dKYevR3U4rHtO++Rpgzg+eD8jHkqnaMuhffnaN*YLTdQvmcHUiWnxGROH67nhOWJ04kr3gL4St+mHV5L*03dHV0NSTLjAUvvBqOe9znqLhD8q8Xbwun2q+kcuUGko0Z3o*oz+fFeXejiv19et28+Fc3u+HV+r2ox2620uQSs2Lb2Qi9XpknzSh6yi37G0OCOm2iZdDmxD2Sw3zqkDj4tqJ8NxBy6Vg5B3BKQf7dkoVJVF3fOMQOATYhbCWBSumiRfUzQ3S3T13bpf9U2fY2NDf7m*KMG1GYAuf2sBiiNSMgoZybNmT+DFFoDBycGIYnZvL7jYQkG4TRFacJ+eB+5uEwedemegWucnaHnwkO9rUpmsV9wLaIGC5giXJQ7GpGQ5rWe4LGGES9D9868WyPCFPYRryol8C4SElszNquKQw+BD1Y9DiFBeZcypM2Q0C0xBl*vcxoyRLCqbPlYZpCgmJ2zEkJWgG8JDiW8tEOATQbjBAwM721*SV2epP5+15zGTvD630BvKcZ49rkBN6QiY4599GOJnSQqCZx*K2rOMVUWVpIBHsg9agLxnpvnntxJ6EzpDm2HoQP5gS+dxPuxJQ3OytHfSXYZH7zHFAegyWuEW8CFKqmKVJzj7Brd*GdlH9ZwKneNmp9C+tt3l4TrY72ezL7gPTUH37XNOGXnQ4HlTwVmvPQO0QHq3IGlergki1+l0Opwiq11Z+KP8dW4aCYviV4YZaIHD*RrPiwqvSh1NVQWOV5qbzcHtH00awAAzSA4l6AJjQjkVSb3B65yckD4a6YNIN6Km6R8afoThYbZYWFXiFu1VtrioZilZqsMz*WLv1cTpSR3uYqVGqqaLiXM3279BQBfY*napOSM6X6mHedjLX0O6XcxjZ5di7tqe7MuJuvbFZJBsNiPVuSBvr3ke2lXy5RxUZKRntqpvRyx+SqJTGrqpNUhEY*HSVHt46WsxfztbD42evDi2t9spRepmue+f1b6fpCWZpq+ZwudJxJ8j6CJBrUah9YR9tC3Ka*00lHp8hgjpLN2Lb2NJT49RmmlW**yI6X1MHN7HM7kH6O3deSHB92mXwUbB*9buMwTcrfUF431+*sZoPS9IFMaLZnvqzkJjOjdOA+YvZiupPRlEeM5mThEVp0liuAzcbn+1QHGALMxp2iQpC2hOAtACNK+alJpZmH9TzNBN82NAHWDJ9M*kr0iKSwbTAnR5RZJVURJF5XHLpnkxhmXc6L5J5F7j6VovCodB9jFHgN58ti6B299QSwECFAMUAAAICABgT5xauPHAgNgEAABjCAAACgAAAAAAAAAAAAAAgIEAAAAAY3JlZHMuanNvblBLBQYAAAAAAQABADgAAAAABQAAAAA=
     "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
     "value": "",
     "required": false
